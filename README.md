@@ -39,7 +39,7 @@ nvim/
 
 ## 🛠 Requirements
 
-- Neovim >= 0.9
+- Neovim >= 0.9 (Avoid package managers)
 - `git`
 - `ripgrep` (for Telescope)
 - LSP servers (optional, install via `:LspInstall`)
